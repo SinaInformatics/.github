@@ -1,12 +1,5 @@
-## Hi there 👋
+# Welcome to Sina Informatics 🚀
 
-<!--
+We're specializing in modern web solutions, delivering high-quality, scalable, and tailored products. Our focus is on building headless CMS and e-commerce platforms that empower businesses to thrive in the digital age.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We’re always excited to connect with other developers and teams. Whether you’re a business looking for a solution or a developer passionate about headless and modular systems, feel free to reach out!
